@@ -2,12 +2,18 @@
 Notes on what I've learned in ES6.
 
 ## Array Helper Methods
-1. <b>`forEach`</b>
-  * Accepts an anonmyous function as a parameter and executes code against each index in the array. This replaces the standard `for` loop     when iterating over an entire array.
-2. <b>`map`</b>
-3. <b>`filter`</b>
-4. <b>`find`</b>
-5. <b>`every`</b>
-6. <b>`some`</b>
-7. <b>`reduce`</b>
+<ol>
+ <li><b>`forEach`</b>
+  <ul>
+    <li>Accepts an anonmyous function as a parameter and executes code against each index in the array. This replaces the standard `for`       loop when iterating over an entire array.</li>
+  </ul>
+ </li>
+ <li><b>`map`</b></li>
+ <li><b>`filter`</b></li>
+ <li><b>`find`</b></li>
+ <li><b>`every`</b></li>
+ <li><b>`some`</b></li>
+ <li><b>`reduce`</b></li>
+</ol>
+
 
