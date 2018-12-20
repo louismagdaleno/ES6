@@ -4,6 +4,10 @@ Notes on what I've learned in ES6.
 ## Array Helper Methods
 * forEach
    * Accepts a function as a parameter and executes code against each element in the array. This replaces the standard "for"         loop when iterating over an entire array.
+   
+   example.forEach(function(ex) {
+    console.log(ex);
+    });
 *map
    *Accepts a function as a parameter and executes code against each element in the array. Returns a new array of the same size     as the initial array.
 * filter
